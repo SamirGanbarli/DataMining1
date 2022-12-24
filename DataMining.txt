@@ -1,0 +1,2 @@
+Working on a dataset including normalization, outlier analysis, label encoding, model choosing for both
+regression and classification
